@@ -1,0 +1,1 @@
+alert("2조 Project BD의 resoft 클론코딩 페이지입니다 :)")
